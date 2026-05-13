@@ -9,6 +9,6 @@ function setup() {
 function draw() {
   background(0, 0, 255);
   image(img, 0, 0, width, height);
-  rect(width / 2 - 35, 330, 70, 25);
+  rect(width / 2 - 35, 335, 70, 25);
   text("Hello World", width / 2 - 33, 350);
 }
