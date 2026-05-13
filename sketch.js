@@ -1,5 +1,5 @@
 function preload() {
-  img = loadImage("assest/image.jpg");
+  img = loadImage("assets/images/image.jpeg");
 }
 
 function setup() {
