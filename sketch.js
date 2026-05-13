@@ -3,12 +3,12 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(400, 500);
+  createCanvas(500, 400);
 }
 
 function draw() {
   background(0, 0, 255);
   image(img, 0, 0, width, height);
-  rect(50, 50, 10, 50);
+  rect(width / 2, 350, 70, 30);
   text("Hello World", 50, 200);
 }
