@@ -4,8 +4,6 @@
 
 To run the sketch locally, open `index.html` in Google Chrome. No additional setup is required.
 
-To play via GitHub Pages, visit the link provided on the submission page.
-
 ## Assets
 
 | File                       | Source            |
